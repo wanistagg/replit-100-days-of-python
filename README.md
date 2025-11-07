@@ -8,6 +8,6 @@ I aim to accomplish the following in taking this challenge:
 * learn how to design and build small projects.
 
 ## Daily Progress Tracker
-### Day 1
+### [Day 1](https://github.com/wanistagg/replit-100-days-of-python/blob/main/day01/hello_world.py)
 Learned about print statements and strings. 
 Wrote a "statement of intent" using only one print statement declaring my goal of completing all 100 days of this challenge.
