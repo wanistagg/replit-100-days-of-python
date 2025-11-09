@@ -14,3 +14,6 @@ Wrote a "statement of intent" using only one print statement declaring my goal o
 ### [Day 2](https://github.com/wanistagg/replit-100-days-of-python/blob/main/day02/inputs_and_variables.py)
 Learned about input statements and variables.
 Wrote a program for users to enter information about themselves through declaration of variables with input statements. Inputted information is then returned to the user through a range of print statements which include all of the variables in two full sentences.
+### [Day 3](https://github.com/wanistagg/replit-100-days-of-python/blob/main/day03/concatenation.py)
+Learned about concatenation.
+Wrote a program which takes user input to generate a wacky recipe through use of several variables. The resulting recipe prints a sentence comprised of the inputs of all variables, concatenated together with strings.
