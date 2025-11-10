@@ -17,3 +17,6 @@ Wrote a program for users to enter information about themselves through declarat
 ### [Day 3](https://github.com/wanistagg/replit-100-days-of-python/blob/main/day03/concatenation.py)
 Learned about concatenation.
 Wrote a program which takes user input to generate a wacky recipe through use of several variables. The resulting recipe prints a sentence comprised of the inputs of all variables, concatenated together with strings.
+### [Day 4](https://github.com/wanistagg/replit-100-days-of-python/blob/main/day04/adventure_story_simulator.py)
+This is the first project day so far in the series. It encompasses concepts learned from the past few days: print statements, strings, inputs, variables, and concatenation.
+Wrote an adventure story simulator program where users first answer a variety of questions. The inputs from said questions are then embedded and concatenated within a few paragraphs worth of strings which combine altogether to create a fun and amusing adventure story which features the user as the main character.
